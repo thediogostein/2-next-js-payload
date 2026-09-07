@@ -1,0 +1,8 @@
+node_modules
+.next
+.env
+.env.local
+*.tsbuildinfo
+payload-types.ts
+payload.db
+payload.db-*
