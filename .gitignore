@@ -2,7 +2,10 @@ node_modules
 .next
 .env
 .env.local
+.env*.local
 *.tsbuildinfo
 payload-types.ts
 payload.db
 payload.db-*
+.vercel
+.env*
